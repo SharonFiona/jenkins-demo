@@ -3,3 +3,4 @@ public class Hello {
         System.out.println("Hello from Java using Jenkins");
     }
 }
+System.out.println("Mini CI Project Successful");
